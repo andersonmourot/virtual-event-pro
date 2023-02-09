@@ -33,9 +33,11 @@ npm i
 
 ![Screen Shot 2023-02-08 at 7 26 31 PM](https://user-images.githubusercontent.com/109611768/217691381-f71832ee-d309-4de5-a1f6-1b567d0b5b88.png)
 
-## Repo Link
+## Links
 
 https://github.com/justinberg97/virtual-event-pro
+
+https://virtual-event-pro.herokuapp.com/
 
 ## Usage
 Use npm run develop to launch the app.
