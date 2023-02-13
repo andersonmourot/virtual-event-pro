@@ -2,7 +2,7 @@
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
-It is a website where a new/old user is able to create an account about events with a descriptions and can add/join with other users. You are able to delete the event once done. You are also able to login and logout. Making it easy for the user to be more organized and to also keep track of other important work or even social events. 
+Virtual Event Pro is a website where a new/old user is able to create an account about events with a descriptions and can add/join with other users. You are able to delete the event once done. You are also able to login and logout. Making it easy for the user to be more organized and to also keep track of other important work or even social events. 
 
 ## Table of Contents
 
